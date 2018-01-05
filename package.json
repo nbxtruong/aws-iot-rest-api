@@ -1,0 +1,24 @@
+{
+  "name": "aws-iot-rest-api",
+  "version": "1.0.0",
+  "description": "AWS IoT Rest API demo",
+  "main": "getThingShadows.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbxtruong/aws-iot-rest-api.git"
+  },
+  "author": "Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbxtruong/aws-iot-rest-api/issues"
+  },
+  "homepage": "https://github.com/nbxtruong/aws-iot-rest-api#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "https": "^1.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
